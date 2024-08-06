@@ -35,7 +35,8 @@ With IRIS, we are redefining the rental experience by providing a user-centric, 
 
   
 - [Link to Playstore](https://play.google.com/store/apps/details?id=com.irisrs)
-
+  
+- [Link to Download Android APK](https://drive.google.com/file/d/1qodylk54OYXDsTs3pyhFGytFeEWltQrU/view?usp=drivesdk)
   
   ![IRIS Playstore](iris-listing-on-playstore.png)
 
