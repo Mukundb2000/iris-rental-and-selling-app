@@ -6,4 +6,4 @@ IRIS-RENTAL AND SELLING APPLICATION
 - [Link to Playstore](https://play.google.com/store/apps/details?id=com.irisrs)
 - [Youtube Channel](https://www.youtube.com/@IRISRentalAndSelling)
 - [Instagram Handle](https://www.instagram.com/irisapp.india/?igsh=MzRlODBiNWFlZA%3D%3D)
-- [Link to codebase](https://github.com/iris-gk/iris) (Copyright GITSS Pvt. LTD)
+- [Link to codebase](https://github.com/iris-gk/iris) NOTE: This is a private repository (Copyright GITSS Pvt. LTD)
