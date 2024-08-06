@@ -22,14 +22,34 @@ With IRIS, we are redefining the rental experience by providing a user-centric, 
 
 
 - [Link to documentation,usage and high level overview of implementation of application](https://docs.google.com/presentation/d/1iarKGYNGbCdwuBkBzp2qBsb-atlJVlDTnfl998O4iXU/edit?usp=sharing)
-  ![IRIS Appstore](iris-add-item-flow.png)
-  ![IRIS Appstore](add-item-flow-2.png)
+
+![IRIS Appstore](iris-add-item-flow.png)
+![IRIS Appstore](add-item-flow-2.png)
+
+
 - [Link to Appstore](https://apps.apple.com/in/app/iris-rental-and-selling/id1664124763)
+
+
   ![IRIS Appstore](iris-app-store-preview.png)
+
+
+  
 - [Link to Playstore](https://play.google.com/store/apps/details?id=com.irisrs)
+
+  
   ![IRIS Playstore](iris-listing-on-playstore.png)
+
+  
 - [Youtube Channel](https://www.youtube.com/@IRISRentalAndSelling)
+
+  
   ![IRIS Youtube](iris-youtube-channel.png)
+
+  
 - [Instagram Handle](https://www.instagram.com/irisapp.india/?igsh=MzRlODBiNWFlZA%3D%3D)
+
+  
   ![IRIS Instagram](iris-instagram-handle.png)
+
+  
 - [Link to codebase](https://github.com/iris-gk/iris) NOTE: This is a private repository (Copyright GITSS Pvt. LTD)
