@@ -57,4 +57,4 @@ With IRIS, we are redefining the rental experience by providing a user-centric, 
 
 
 
-For implementation sample, please refer to the [Sample Git_Full Stack Mobile Application IRIS sample for University.pdf](Sample%20Git_Full%20Stack%20Mobile%20Application%20IRIS%20sample%20for%20University.pdf).
+For implementation sample, please refer to the [Sample snippet](Sample%20Git_Full%20Stack%20Mobile%20Application%20IRIS%20sample%20for%20University.pdf).
