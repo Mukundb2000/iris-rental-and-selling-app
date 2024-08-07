@@ -54,3 +54,7 @@ With IRIS, we are redefining the rental experience by providing a user-centric, 
 
   
 - [Link to codebase](https://github.com/iris-gk/iris) NOTE: This is a private repository (Copyright GITSS Pvt. LTD)
+
+
+
+For implementation sample, please refer to the [Sample Git_Full Stack Mobile Application IRIS sample for University.pdf](Sample%20Git_Full%20Stack%20Mobile%20Application%20IRIS%20sample%20for%20University.pdf).
